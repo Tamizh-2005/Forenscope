@@ -1,4 +1,4 @@
-#Forenscope – Portable Digital Forensics Kit 🕵️‍♂️🧪
+# Forenscope – Portable Digital Forensics Kit 🕵️‍♂️🧪
 
 Forenscope is a portable, Raspberry Pi-based forensic toolkit designed for digital evidence extraction in the field. It supports forensic imaging, mobile data extraction, IoT sensor capture, and camera snapshot acquisition — all from a single device.
 
@@ -150,20 +150,3 @@ This project is intended strictly for academic, forensic, and lawful investigati
 Always ensure consent or a valid legal warrant is obtained when using Forenscope on external devices.
 
 ---
-
-## 👨‍💻 Contributors
-
-* Investigator & Developer: Your Name
-* Advisor: \[Professor or Guide Name]
-
----
-
-🧠 Project Type: Final Year Project (B.E/B.Tech CSE, Cybersecurity Track)
-
-📍 Location: On-field investigation tool for quick digital triage
-
-📌 Upload screenshots, flow diagrams, and sample reports in the /docs folder (optional for GitHub)
-
-—
-
-Would you like me to create a ZIP of this README.md and any other file so you can download it directly? Or generate sample report/log/metadata files for testing your GitHub repo?
